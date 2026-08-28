@@ -1,0 +1,1 @@
+window.TKA_DATA={};
